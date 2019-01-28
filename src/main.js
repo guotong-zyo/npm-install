@@ -7,3 +7,5 @@
 
 const test = 'this is a test file'
 console.log(test)
+const flag = 'this is a test v1.2 flag'
+console.log(flag)
